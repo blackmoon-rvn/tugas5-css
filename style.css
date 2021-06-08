@@ -1,0 +1,24 @@
+header {
+   background-color: black;
+   width: 100%;
+}
+
+.menu {
+   color: white !important;
+   font-size: 30px;
+}
+
+.slider-div {
+   margin-top: 20px;
+}
+
+footer {
+   background-color: black;
+   text-align: center;
+   color: white;
+}
+
+div .slider {
+   width: 49%;
+   background-position: center;
+}
